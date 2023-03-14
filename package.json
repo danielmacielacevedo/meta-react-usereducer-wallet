@@ -2,7 +2,7 @@
   "name": "meta-react-usereducer-wallet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielmacielacevedo.github.io/meta-react-usereducer-wallet",
+  "homepage": "http://danielmacielacevedo.github.io/meta-react-usereducer-wallet",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
