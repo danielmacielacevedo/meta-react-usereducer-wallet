@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meta-react-usereducer-wallet/static/css/main.d735f542.css",
+    "main.js": "/meta-react-usereducer-wallet/static/js/main.7aadbf70.js",
+    "static/js/787.4de4304e.chunk.js": "/meta-react-usereducer-wallet/static/js/787.4de4304e.chunk.js",
+    "index.html": "/meta-react-usereducer-wallet/index.html",
+    "main.d735f542.css.map": "/meta-react-usereducer-wallet/static/css/main.d735f542.css.map",
+    "main.7aadbf70.js.map": "/meta-react-usereducer-wallet/static/js/main.7aadbf70.js.map",
+    "787.4de4304e.chunk.js.map": "/meta-react-usereducer-wallet/static/js/787.4de4304e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d735f542.css",
+    "static/js/main.7aadbf70.js"
+  ]
+}
